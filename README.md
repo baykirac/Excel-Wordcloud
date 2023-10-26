@@ -1,7 +1,7 @@
 
 # Excel Create Wordcloud
 
-The purpose of the project is find the most mentioned word of specific column in excel file and export the result as csv of excel file.
+The purpose of the project is find the most mentioned word of specific column in excel file and export the result as csv or excel file.
 
 
 ## Özellikler
